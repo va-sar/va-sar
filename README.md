@@ -1,16 +1,17 @@
-## Hi there 👋
+# Viacheslav Tokarev  
+Research Engineer • SAR Data Processing • Earth Observation  
 
-<!--
-**va-sar/va-sar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I develop robust, physics-based methods for Synthetic Aperture Radar (SAR) processing — with a focus on motion-compromised systems, polarimetric data processing, and open-science workflows. All my work emphasizes reproducibility, civilian applications, and climate resilience.
 
-Here are some ideas to get you started:
+## Current Projects  
+- 🧊 **[polarimetric-ice-mapping](link)** — Sea ice classification using Sentinel-1 dual-pol data  
+- 🛰️ **[uav-sar-autofocus](link)** — INS-free autofocus for unstable platforms  
+- 🌍 **[sar-optical-fusion](link)** — Multisensor visualization for Arctic monitoring  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Principles  
+- ✅ **Open data only** (Sentinel, public UAV datasets)  
+- ✅ **Full Python pipelines** (NumPy, SciPy, scikit-learn, PyTorch)  
+- ✅ **No external navigation dependency**  
+- ✅ **Reproducible & documented**  
+
+*Committed to advancing radar science for environmental monitoring and sustainable observation.*
