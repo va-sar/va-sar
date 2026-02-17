@@ -5,7 +5,7 @@ I develop robust, physics-based methods for Synthetic Aperture Radar (SAR) proce
 
 ## Current Projects  
 - 🛰️ **[sentinel-1/2-data-downloading](https://github.com/va-sar/sentinel-downloader)** — Download Sentinel-1 (SAR) and Sentinel-2 (optical) data from Copernicus Data Space Ecosystem using modern Python APIs
-- 🌍 **[sar-optical-fusion](https://github.com/va-sar/sar-optical-fusion)** — Multisensor visualization for environmental monitoring *(code to be published)*
+- 🌍 **[sar-optical-fusion](https://github.com/va-sar/sar-optical-fusion)** — Multisensor visualization for environmental monitoring
 - 🧊 **[polarimetric-ice-mapping](link)** — Sea ice classification using Sentinel-1 dual-pol data *(code to be published)*
 - ✈️ **[uav-sar-autofocus](link)** — INS-free autofocus for unstable platforms *(code to be published)*
 
