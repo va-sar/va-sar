@@ -1,17 +1,14 @@
 # Viacheslav Tokarev  
-Research Engineer • SAR Data Processing • Earth Observation  
+DSP Engineer • SAR Data Processing • CV & ML  
 
-I develop robust, physics-based methods for Synthetic Aperture Radar (SAR) processing — with a focus on motion-compromised systems, polarimetric data processing, and open-science workflows. My pipelines are built on modern, open-source Python frameworks to ensure reproducibility and support environmental monitoring.
+I develop robust, physics-based methods for data processing using advanced DSP, ML and CV — with a focus on motion-compromised systems, polarimetric data processing, and open-science workflows for real-world impact. My pipelines are built on modern, open-source Python frameworks to ensure reproducibility and support environmental monitoring.
 
 ## Current Projects  
 - 🛰️ **[sentinel-1/2-data-downloading](https://github.com/va-sar/sentinel-downloader)** — Download Sentinel-1 (SAR) and Sentinel-2 (optical) data from Copernicus Data Space Ecosystem using modern Python APIs
 - 🌍 **[sar-optical-fusion](https://github.com/va-sar/sar-optical-fusion)** — Multisensor visualization for environmental monitoring
-- 🧊 **[polarimetric-ice-mapping](link)** — Sea ice classification using Sentinel-1 dual-pol data *(code to be published)*
-- ✈️ **[uav-sar-autofocus](link)** — INS-free autofocus for unstable platforms *(code to be published)*
 
 ## Principles  
-- ✅ **Open data only** (Sentinel, public UAV datasets)  
+- ✅ **Open data only** (Sentinel, public datasets)  
 - ✅ **Full Python pipelines** (NumPy, scikit-learn, PyTorch, raterio, geopandas)  
 - ✅ **Reproducible & documented**  
 
-*Committed to advancing radar science for environmental monitoring and sustainable observation.*
